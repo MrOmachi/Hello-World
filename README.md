@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Hello Microverse project
+> Hello World project
 
 ## Built With
 
@@ -58,16 +58,13 @@ npx stylelint "**/*.{css,scss}"
 
 ## Authors
 
-👤 **Onate Makoji David**
+👤 **Omachi John Sunday**
 
-- GitHub: [@githubhandle](https://github.com/aceDavon)
-- Twitter: [@twitterhandle](https://twitter.com/Sharkleshevon)
+- GitHub: [@githubhandle](https://github.com/MrOmachi)
+- Twitter: [@twitterhandle](https://twitter.com/Mr_Omachi)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/david-makoji-b6090971)
 
 ## 🤝 Contributing
-
-- GitHub: [@githubhandle](https://github.com/KebebewAbabu)
-- GitHub: [@githubhandle](https://github.com/iambenkis)
 
 Contributions, issues, and feature requests are welcome!
 
